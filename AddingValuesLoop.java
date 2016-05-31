@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class untilZero_while {
 public static void main(String args[]){
 		
-
+//edit
 			   int i=0;
 			   int x;
 			   
