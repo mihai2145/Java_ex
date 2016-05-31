@@ -1,0 +1,22 @@
+package exercises3;
+
+public class nest_armstrong {
+
+
+	
+			public static void main(String[] args){
+				
+				for(int a=1;a<=999;a++){
+					
+					int b=(a/100)%10;
+					int c=(a/10)%10;
+					int d=a%10;
+					
+					if(a==(b*b*b+c*c*c+d*d*d)){System.out.println(a);}
+//					System.out.println(a +"="+b+" "+c+" "+d);
+					
+		
+									
+								}
+			
+				}}
